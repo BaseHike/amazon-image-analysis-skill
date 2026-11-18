@@ -1,0 +1,14 @@
+{
+  "name": "amazon-image-analysis-skill",
+  "owner": {
+    "name": "BaseHike"
+  },
+  "plugins": [
+    {
+      "name": "amazon-image-analysis",
+      "source": "./",
+      "description": "抓取亚马逊 BS 榜竞品的主图、副图和 A+ 图片，生成图片嵌入单元格的 Excel，附逐图分析和新品作图方案。",
+      "version": "1.0.0"
+    }
+  ]
+}

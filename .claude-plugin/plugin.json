@@ -1,0 +1,10 @@
+{
+  "name": "amazon-image-analysis",
+  "version": "1.0.0",
+  "description": "抓取亚马逊 BS 榜竞品的主图、副图和 A+ 图片，生成图片嵌入单元格的 Excel（WPS 版 + Excel 版），附逐图作用分析和新品作图方案。",
+  "author": {
+    "name": "BaseHike"
+  },
+  "license": "MIT",
+  "keywords": ["amazon", "competitor", "images", "excel", "wps", "ecommerce", "listing-images"]
+}
